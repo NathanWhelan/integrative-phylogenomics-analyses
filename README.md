@@ -2,7 +2,7 @@
 
 # Integrative Phylogenomics Analyses
 
-Data from ""Integrative Phylogenomics" intergrates error".
+Data from ""Integrative Phylogenomics" integrates error".
 
 A methods and results is included as a PDF.
 
