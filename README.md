@@ -1,2 +1,8 @@
-# integrative-phylogenomics-analyses
-Data from reanalysis of an "Integrative Phylogenomics" study
+# Integrative Phylogenomics Pnalyses
+
+Data from ""Integrative Phylogenomics" intergrates error".
+
+A methods and results is included as a PDF.
+
+Data folders include inferred trees, gls tables, and gqs tables for each dataset. See REAMDE documets in each folder and methods PDF for more informatoin. 
+
