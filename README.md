@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1113919652.svg)](https://doi.org/10.5281/zenodo.17883124)
+
 # Integrative Phylogenomics Analyses
 
 Data from ""Integrative Phylogenomics" intergrates error".
