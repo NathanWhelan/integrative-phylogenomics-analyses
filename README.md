@@ -1,4 +1,4 @@
-# Integrative Phylogenomics Pnalyses
+# Integrative Phylogenomics Analyses
 
 Data from ""Integrative Phylogenomics" intergrates error".
 
